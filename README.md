@@ -1,5 +1,20 @@
 # QSTrader
 
+> ## ⚠️ **DEPRECATION NOTICE**
+> 
+> **This repository uses QSTrader, which is no longer actively maintained (last update: 2019).**
+> 
+> ### 🔁 **Recommended Alternatives:**
+> - **[Chotu-lumibot-dev](https://github.com/CRAJKUMARSINGH/Chotu-lumibot-dev)** - Modern framework with live trading support
+> - **[Chotu-backtesting](https://github.com/CRAJKUMARSINGH/Chotu-backtesting)** - Simple, fast backtesting
+> - **[Chotu-vectorbt](https://github.com/CRAJKUMARSINGH/Chotu-vectorbt)** - Ultra-fast vectorized backtesting
+> 
+> **See [DEPRECATION_NOTICE.md](./DEPRECATION_NOTICE.md) for full migration guide.**
+>
+> ---
+
+# QSTrader
+
 | Development   | Details       |
 | ------------- | ------------- |
 | Test Status   | [![Build Status](https://img.shields.io/travis/mhallsmoore/qstrader?label=TravisCI&style=flat-square)](https://travis-ci.org/mhallsmoore/qstrader) [![Coverage Status](https://img.shields.io/coveralls/github/mhallsmoore/qstrader?style=flat-square&label=Coverage)](https://coveralls.io/github/mhallsmoore/qstrader?branch=master) |
